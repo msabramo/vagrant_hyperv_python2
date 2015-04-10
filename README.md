@@ -65,6 +65,7 @@ You now have a VirtualBox VM with:
 - setuptools 7.0
 - wheel 0.24.0
 - virtualenv 12.1.1
+- [VIM][] - Vi IMproved 7.4 from [Chocolatey vim package](https://chocolatey.org/packages/vim)
 - git 1.9.5.msysgit.1
 - Mercurial (hg) 3.3.3
 - [Microsoft Visual C++ Compiler for Python 2.7][] (VCForPython27.msi)
@@ -74,6 +75,7 @@ You now have a VirtualBox VM with:
   Unicode build) from [Chocolatey Explorerplusplus package]
   (https://chocolatey.org/packages/Explorerplusplus)
 - [WinSCP][] 5.7 from [Chocolatey winscp package](https://chocolatey.org/packages/winscp)
+
 
 ```
 C:\Users\Administrator>python -V
@@ -94,6 +96,9 @@ C:\Users\Administrator>virtualenv --version
 
 - To browse the filesystem with a GUI, launch `explorer++` from the
   command prompt or PowerShell.
+
+- [VIM][]: Execute `vim` to get a console vim. Execute `gvim` to get a
+  graphical vim.
 
 - [WinSCP][]: Execute `winscp` to get a command-line utility. Execute
   `winscp.exe` to get the graphical application.
@@ -133,3 +138,4 @@ C:\Users\Administrator>virtualenv --version
 [Microsoft Visual C++ Compiler for Python 2.7]: http://www.microsoft.com/en-us/download/details.aspx?id=44266
 [GnuWin]: http://gnuwin32.sourceforge.net/packages/wget.htm
 [WinSCP]: http://winscp.net/
+[VIM]: http://www.vim.org/
