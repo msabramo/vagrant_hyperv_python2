@@ -69,6 +69,7 @@ You now have a VirtualBox VM with:
 - git 1.9.5.msysgit.1
 - Mercurial (hg) 3.3.3
 - Bazaar (bzr) 2.5.1
+- svn v1.8.11
 - [Microsoft Visual C++ Compiler for Python 2.7][] (VCForPython27.msi)
   9.0.0.30729 - This allows building Python C extensions.
 - GNU Wget 1.11.4 from the [GnuWin][] project
