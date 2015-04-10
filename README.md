@@ -103,6 +103,20 @@ requests==2.6.0
 six==1.9.0
 virtualenv==12.1.1
 wheel==0.24.0
+
+C:\Users\Administrator>choco list -localonly
+Chocolatey v0.9.9.4
+bzr 2.5.1.2
+Explorerplusplus 1.3.5
+git 1.9.5.20150319
+git.install 1.9.5.20150319
+putty 0.64
+putty.portable 0.64
+python2 2.7.9
+svn 1.8.11
+vim 7.4.638
+winscp 5.7
+10 packages installed.
 ```
 
 
