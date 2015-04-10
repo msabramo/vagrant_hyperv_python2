@@ -96,11 +96,14 @@ C:\Users\Administrator>pip freeze
 Pygments==2.0.2
 colorama==0.3.3
 greenlet==0.4.5
+httpie==0.9.2
 ipython==3.1.0
 mercurial==3.3.3
+py==1.4.26
 pyreadline==2.0
 requests==2.6.0
 six==1.9.0
+tox==1.9.2
 virtualenv==12.1.1
 wheel==0.24.0
 
