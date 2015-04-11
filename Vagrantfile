@@ -15,6 +15,6 @@ echo "Executing script in Vagrantfile..."
 SCRIPT
 
 Vagrant.configure(2) do |config|
-  config.vm.box = "msabramo/HyperVServer2012"
+  config.vm.box = "msabramo/HyperVServer2012R2PlusPython2"
   config.vm.provision "shell", inline: $script
 end
