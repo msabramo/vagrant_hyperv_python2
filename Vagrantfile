@@ -14,6 +14,12 @@ echo "Executing script in Vagrantfile..."
 # Install Python 3.4
 # choco install -y python3
 
+# Install PyPy
+# choco install -y python.pypy
+
+# Install IronPython
+# choco install -y ironpython 
+
 # Browse more chocolatey packages at https://chocolatey.org/packages
 SCRIPT
 
