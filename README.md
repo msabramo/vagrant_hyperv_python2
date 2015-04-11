@@ -158,6 +158,11 @@ winscp 5.7
   from the command prompt or PowerShell.
 
 
+# Issues and feature requests
+
+Please file issues and feature requests at https://github.com/msabramo/vagrant_hyperv_python2/issues
+
+
 [Vagrant]: https://www.vagrantup.com/
 [VirtualBox]: https://www.virtualbox.org/
 [Hyper-V Server]: https://technet.microsoft.com/en-us/library/hh833684.aspx
