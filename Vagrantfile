@@ -11,6 +11,9 @@ echo "Executing script in Vagrantfile..."
 # Install PyCharm Professional (paid version)
 # choco install -y pycharm
 
+# Install Python 3.4
+# choco install -y python3
+
 # Browse more chocolatey packages at https://chocolatey.org/packages
 SCRIPT
 
