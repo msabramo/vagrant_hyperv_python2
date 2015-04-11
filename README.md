@@ -1,6 +1,6 @@
 # A lightweight [Vagrant][] VM with [Microsoft Hyper-V Server 2012 R2][Hyper-V Server] and Python 2
 
-https://vagrantcloud.com/msabramo/boxes/HyperVServer2012
+https://vagrantcloud.com/msabramo/boxes/HyperVServer2012R2PlusPython2
 
 Note: If you need a VM with SQL Server Express, you may want to checkout
 https://github.com/msabramo/vagrant_sql_server_express instead.
