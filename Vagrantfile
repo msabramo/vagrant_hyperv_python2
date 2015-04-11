@@ -5,11 +5,11 @@ $script = <<'SCRIPT'
 # You can add PowerShell stuff here if you want...
 echo "Executing script in Vagrantfile..."
 
-# Install git
-# choco install -y git
+# Install PyCharm Community (free version)
+# choco install -y pycharm-community
 
-# Install PuTTY (http://www.chiark.greenend.org.uk/~sgtatham/putty/)
-# choco install -y putty
+# Install PyCharm Professional (paid version)
+# choco install -y pycharm
 
 # Browse more chocolatey packages at https://chocolatey.org/packages
 SCRIPT
